@@ -249,21 +249,6 @@ python scripts/update_cve_database.py
 python scripts/build_cve_rag_index.py
 ```
 
-## Sponsors
-
-<p align="center">
-  <a href="https://www.swiftproxy.net/?ref=zakirkun" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/swiftproxy_banner.png" alt="Swiftproxy" width="100%">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.swiftproxy.net/?ref=zakirkun"><b>Swiftproxy</b></a> provides 90M+ clean residential IPs across 220+ locations, supporting HTTP(S)/SOCKS5, IP rotation, sticky sessions, and precise location targeting. It helps browser automation and AI-powered workflows access websites reliably from different locations — suitable for web scraping, automation, research, and location-based testing. Residential proxies from $0.7/GB.
-  <br />
-  Free testing available. Use code <code>PROXY90</code> for 10% off.
-</p>
-
-
 ## Legal Disclaimer
 
 Deep Eye is for **authorized security testing only**.
